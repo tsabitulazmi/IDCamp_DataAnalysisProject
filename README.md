@@ -15,7 +15,7 @@ There are some questions that I want to answer in this project:
 7. How much money have customers spent?
 
 ## File Explanation
-- "Data Analysis Project - E-Commerce Public Datase.ipnyb" is jupyter notebook file that I use to perform Exploration Data Analysis.
+- [Data Analysis Projec - E-Commerce Public Datase.ipnyb] (/dashboard.py) - jupyter notebook file that I use to perform Exploration Data Analysis.
 - "dashboard.py" is the dashboard that I created using streamlit library to visualize my data analysis results.
 - "data" folder contains some file that I use for the analysis.
 - "requirement.txt" is a text file contains libraries that I used in this analysis.

@@ -17,4 +17,4 @@ There are some questions that I want to answer in this project:
 - [eda_ecommerce_dataset.ipynb](eda_ecommerce_dataset.ipynb) - jupyter notebook file that I use to perform Exploration Data Analysis.
 - [dashboard.py](dashboard.py) is the dashboard that I created using streamlit library to visualize my data analysis results.
 - [data](data) folder contains some file that I use for the analysis.
-- [requirement.txt](requirement.txt) is a text file contains libraries that I used in this analysis.
+- [requirements.txt](requirements.txt) is a text file contains libraries that I used in this analysis.

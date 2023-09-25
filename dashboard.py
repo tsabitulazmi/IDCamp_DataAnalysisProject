@@ -46,7 +46,7 @@ def create_rfm_df(df):
     return rfm_df
 
 # Read the data
-all_df = pd.read_csv("all.csv")
+all_df = pd.read_csv("data\all.csv")
 
 # Sort the data frame based on order_purchase_timestamp
 datetime_columns = ["order_purchase_timestamp"]
